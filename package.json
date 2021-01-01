@@ -16,5 +16,9 @@
   "bugs": {
     "url": "https://github.com/ito-soichro/typescript-for-javascript-developers/issues"
   },
-  "homepage": "https://github.com/ito-soichro/typescript-for-javascript-developers#readme"
+  "homepage": "https://github.com/ito-soichro/typescript-for-javascript-developers#readme",
+  "dependencies": {
+    "save-dev": "0.0.1-security",
+    "typescript": "^3.7.5"
+  }
 }
