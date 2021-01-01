@@ -20,5 +20,8 @@
   "dependencies": {
     "save-dev": "0.0.1-security",
     "typescript": "^3.7.5"
+  },
+  "devDependencies": {
+    "ts-node": "^8.6.2"
   }
 }
