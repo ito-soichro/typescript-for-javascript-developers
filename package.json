@@ -4,8 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-   "dev": "ts-node-dev --respawn", 
-   "test": "echo \"Error: no test specified\" && exit 1"
+    "dev": "ts-node-dev --respawn",
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/ito-soichro/typescript-for-javascript-developers#readme",
   "dependencies": {
+    "axios": "^0.19.2",
     "save-dev": "0.0.1-security",
     "typescript": "^3.7.5"
   },
